@@ -14,7 +14,7 @@
       {
         "label": "Arduino (light)",
         "uiTheme": "vs",
-        "path": "./themes/Arduinio-Light.json"
+        "path": "./themes/Arduino-Light.json"
       }
     ]
   }
