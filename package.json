@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nerd Themes",
+        "label": "Arduino (light)",
         "uiTheme": "vs",
-        "path": "./themes/Nerd Themes-color-theme.json"
+        "path": "./themes/Arduinio-Light.json"
       }
     ]
   }
