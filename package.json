@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Arduino (light)",
+        "label": "Arduino",
         "uiTheme": "vs",
-        "path": "./themes/Arduino-Light.json"
+        "path": "./themes/default.color-theme.json"
+      },
+      {
+        "label": "Arduino Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.color-theme.json"
       }
     ]
   }
