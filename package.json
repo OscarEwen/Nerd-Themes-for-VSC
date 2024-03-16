@@ -1,7 +1,7 @@
 {
-  "name": "nerd-themes-for-vsc",
-  "displayName": "Nerd Themes for VSC",
-  "description": "Themes from other nerdy sources recreated in VSC",
+  "name": "arduino-themes-vsc",
+  "displayName": "Arduino Theme Pack for VSC",
+  "description": "The dark and light themes from the Arduion IDE imported to Visual Studio Code for your enjoyment",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
