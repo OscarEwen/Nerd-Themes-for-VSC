@@ -27,3 +27,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Fixed
 - some colours not appearing properly in some langauges
+
+## [0.1.0] - 2024-03-17

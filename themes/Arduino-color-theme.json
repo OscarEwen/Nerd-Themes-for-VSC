@@ -5,7 +5,7 @@
 		"list.activeSelectionForeground": "#4e5b61",
 		"list.activeSelectionBackground": "#00818433",
 		"list.inactiveSelectionForeground": "#4e5b61",
-		"list.inactiveSelectionBackground": "#dae3e3",
+		"list.inactiveSelectionBackground": "#4e5b61",
 		"list.hoverBackground": "#ecf1f1",
 		"list.activeSelectionIconForeground": "#008184",
 		
@@ -28,7 +28,7 @@
 		"menubar.selectionBackground": "#ffffff",
 		"menubar.selectionForeground": "#212121",
 		
-		"menu.selectionBackground": "#dae3e3",
+		"menu.selectionBackground": "#4e5b61",
 		"menu.selectionForeground": "#212121",
 		
 		"editorGroupHeader.tabsBackground": "#ecf1f1",
@@ -43,7 +43,7 @@
 		"terminal.background": "#000000",
 		"terminal.foreground": "#ffffff",
 		
-		"dropdown.border": "#dae3e3",
+		"dropdown.border": "#4e5b61",
 		"dropdown.background": "#ffffff",
 		"dropdown.foreground": "#4e5b61",
 		
@@ -63,7 +63,7 @@
 		
 		"settings.headerForeground": "#4e5b61",
 		
-		"tree.indentGuidesStroke": "#dae3e3",
+		"tree.indentGuidesStroke": "#4e5b61",
 		
 		"tab.unfocusedActiveForeground": "#4e5b61",
 		"tab.inactiveBackground": "#ecf1f1",
@@ -77,7 +77,7 @@
 			"name": "",
 			"settings": 
 			{
-			  "foreground": "#dae3e3"
+			  "foreground": "#4e5b61"
 			}
 		},
 
@@ -148,7 +148,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#dae3e3"
+				"foreground": "#4e5b61"
 			}
 		},
 
@@ -179,7 +179,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#dae3e3"
+				"foreground": "#4e5b61"
 			}
 		},
 
@@ -212,7 +212,7 @@
 	  
 			"settings": 
 			{
-			  "foreground": "#dae3e3"
+			  "foreground": "#4e5b61"
 			}
 		},
 
@@ -238,7 +238,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#dae3e3"
+				"foreground": "#4e5b61"
 			}
 		},
 		{
@@ -514,21 +514,21 @@
 				"meta.separator"
 			],
 			"settings": {
-				"foreground": "#dae3e3"
+				"foreground": "#4e5b61"
 			}
 		},
 		{
 			"name": "Extra: Diff From",
 			"scope": "meta.diff.header.from-file",
 			"settings": {
-				"foreground": "#dae3e3"
+				"foreground": "#4e5b61"
 			}
 		},
 		{
 			"name": "Extra: Diff To",
 			"scope": "meta.diff.header.to-file",
 			"settings": {
-				"foreground": "#dae3e3"
+				"foreground": "#4e5b61"
 			}
 		},
 
