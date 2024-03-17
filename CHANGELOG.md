@@ -18,6 +18,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.1] - 2023-06-16
 
+### Added
+- support for c, c++, clj, cs, css, dart, html, java, javascript, md, php, python, .rs, .sml, swift, typescrript, and YAML
+
 ### Changed
 - package.json changed for a rebrading to "Arduino Theme Packs for VSC"
 - dark.color-theme.json  and default.color-theme.json cleaned up using newlines to make different elements easier to differentiate
+
+### Fixed
+- some colours not appearing properly in some langauges

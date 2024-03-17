@@ -14,18 +14,18 @@
     "type": "git",
     "url": "https://github.com/OscarEwen/nerd-themes-for-vsc"
   },
-  "publisher": "OscarEwenStudent",
+  "publisher": "Oscar Ewen",
   "contributes": {
     "themes": [
       {
         "label": "Arduino",
         "uiTheme": "vs",
-        "path": "./themes/default.color-theme.json"
+        "path": "./themes/Arduino-color-theme.json"
       },
       {
         "label": "Arduino Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark.color-theme.json"
+        "path": "./themes/Arduino-color-theme-dark.json"
       }
     ]
   }
