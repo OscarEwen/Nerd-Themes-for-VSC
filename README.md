@@ -8,10 +8,10 @@ This theme pack current adds:
     - Arduino Dark
 
 Arduino Light.
-[Arduino Default Theme Screenshot](https://github.com/OscarEwen/nerd-themes-for-vsc/blob/main/Arduino-Light-Theme-C.png)
+[!Arduino Default Theme Screenshot](https://github.com/OscarEwen/nerd-themes-for-vsc/blob/main/Arduino-Light-Theme-C.png)
 
 Arduino Dark.
-[Arduino Dark Theme Screenshot](https://github.com/OscarEwen/nerd-themes-for-vsc/blob/main/Arduino-Dark-Theme-C.png)
+[!Arduino Dark Theme Screenshot](https://github.com/OscarEwen/nerd-themes-for-vsc/blob/main/Arduino-Dark-Theme-C.png)
 
 Inspired by: https://github.com/LintangWisesa/Custom-Arduino-Themes 
 

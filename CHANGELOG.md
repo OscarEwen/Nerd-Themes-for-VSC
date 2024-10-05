@@ -29,3 +29,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - some colours not appearing properly in some langauges
 
 ## [0.1.0] - 2024-03-17
+
+### Changed
+- Colours changed back to Arduino IDE 2.x set
+
+### Fixed
+- Fixed poor contrast between some elements and the background
+
+## [0.1.1] - 2024-10-05
